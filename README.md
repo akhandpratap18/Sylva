@@ -1,28 +1,46 @@
-# 🌸 Sylva
+<p align="center">
+  <img src="Screenshots/Banner.png" alt="Sylva Banner" width="100%">
+</p>
 
-> *Sometimes, all we need is someone who listens. Nature always has.*
+<h1 align="center">🌸 Sylva</h1>
 
-Sylva is an AI-powered mindfulness companion that encourages users to reconnect with nature by having meaningful conversations with the living world around them. Instead of journaling to a screen, Sylva invites you to find a tree, flower, bird, or even a spider weaving its web, and reflect through a guided conversation inspired by that companion.
+<p align="center">
+<b>Sometimes, all we need is someone who listens. Nature always has.</b>
+</p>
 
-The app transforms moments in nature into moments of self-reflection.
-
----
-
-## ✨ Inspiration
-
-In our fast-paced digital lives, we often forget that nature has always been a silent companion. Sylva was built on a simple belief:
-
-> **Nature doesn't judge. It listens.**
-
-Whether you're feeling joyful, anxious, isolated, or overwhelmed, Sylva helps you discover a natural companion whose story mirrors your own, making reflection feel personal, calming, and intentional.
+<p align="center">
+An AI-powered mindfulness companion that transforms moments in nature into meaningful conversations.
+</p>
 
 ---
 
-## 🌿 Features
+## 🌿 About
 
-### 🍃 Mood-Based Nature Companion
+Sylva is an AI-powered mindfulness app that encourages users to reconnect with nature through guided reflection.
 
-Select how you're feeling from a collection of emotions such as:
+Instead of journaling into an empty text box, Sylva invites you to step outside, find a companion in nature—a tree, flower, bird, or even a spider weaving its web—and begin a thoughtful conversation inspired by that companion.
+
+Every interaction becomes a moment of mindfulness, helping users slow down, reflect, and rediscover themselves through the wisdom of nature.
+
+---
+
+# ✨ Features
+
+## 🌸 Moment
+
+Begin your reflection by selecting how you're feeling.
+
+Sylva maps your emotions to a unique nature companion and guides you toward a mindful experience.
+
+<p align="center">
+<img src="Screenshots/HomeScreen.png" width="270">
+</p>
+
+---
+
+## 😊 Mood Selection
+
+Choose from a wide range of emotions.
 
 - Happy
 - Joyful
@@ -30,93 +48,78 @@ Select how you're feeling from a collection of emotions such as:
 - Excited
 - Proud
 - Exhausted
+- Hopeless
 - Anxious
 - Overwhelmed
-- Hopeless
 - Isolated
 
-Sylva intelligently maps your emotion to a meaningful companion found in nature.
+Each emotion unlocks a different companion and conversation.
+
+<p align="center">
+<img src="Screenshots/Mood Selection.png" width="270">
+</p>
 
 ---
 
-### 🕊️ Guided Nature Discovery
+## 🌿 Find Your Companion
 
-Instead of immediately starting a conversation, Sylva encourages users to step outside.
+Before talking to AI, Sylva encourages you to disconnect from your phone and reconnect with the world around you.
 
 For example:
 
-> *Find a spider weaving its web. Ask it: "How do you build a home in the middle of nowhere?"*
+> Find a spider weaving its web and ask:
+>
+> *"How do you build a home in the middle of nowhere?"*
 
-This small activity creates intentional presence before the conversation even begins.
+This simple activity creates presence before reflection begins.
 
----
-
-### 💬 AI Conversations
-
-Once you've found your companion, Sylva opens a thoughtful AI-powered conversation inspired by that element of nature.
-
-Each conversation responds with warmth, metaphors from nature, and reflective guidance instead of generic advice.
-
-Users can continue chatting through text or voice.
+<p align="center">
+<img src="Screenshots/GvenTask.png" width="270">
+</p>
 
 ---
 
-### 📖 Reflection Journal
+## 💬 AI Conversation
+
+Chat naturally with your companion.
+
+Rather than offering generic advice, Sylva responds through metaphors inspired by nature, encouraging reflection instead of instruction.
+
+Supports:
+
+- Natural conversation
+- Voice input
+- Follow-up discussions
+
+<p align="center">
+<img src="Screenshots/Response.png" width="270">
+</p>
+
+---
+
+## 📖 Reflection Journal
 
 Every conversation is automatically saved.
 
-Reflection cards include:
+Browse previous reflections using emotion filters or revisit your favorite conversations anytime.
 
-- Companion used
-- Emotion
-- Date
-- Conversation summary
-- Favorite support
-
-Making it easy to revisit meaningful moments over time.
+<p align="center">
+<img src="Screenshots/FavoriteReflections.png" width="270">
+</p>
 
 ---
 
-### ❤️ Favorite Conversations
+## ❤️ Saved Conversations
 
-Important reflections can be bookmarked for future reading.
+Open any previous reflection to revisit the complete conversation, favorite meaningful moments, or remove entries when desired.
 
----
-
-### 🔍 Smart Filters
-
-Browse previous reflections using filters like:
-
-- All
-- Favorites
-- Happy
-- Joyful
-- Calm
-- and more...
-
-Helping users rediscover conversations based on emotions.
+<p align="center">
+<img src="Screenshots/Saved Conversation.png" width="270">
+</p>
 
 ---
 
-### 🎙️ Voice Interaction
-
-Speak naturally with your companion using voice input for a more personal experience.
-
----
-
-## 📱 Screens
-
-- Moment Home
-- Emotion Selection
-- Nature Companion Discovery
-- AI Conversation
-- Reflection History
-- Conversation Record
-- Settings
-
----
-
-## 🛠️ Built With
+# 🛠 Tech Stack
 
 - SwiftUI
 - Foundation Models
@@ -126,25 +129,26 @@ Speak naturally with your companion using voice input for a more personal experi
 
 ---
 
-## 🎨 Design Philosophy
+# 🎨 Design Philosophy
 
-Sylva was designed around three principles:
+Sylva is built around three simple ideas.
 
-- **Presence over productivity**
-- **Nature over notifications**
-- **Reflection over perfection**
+🌸 **Presence over productivity**
 
-Soft glassmorphism, gentle animations, natural imagery, and calming typography create an experience that encourages users to slow down rather than rush.
+🍃 **Nature over notifications**
+
+🤍 **Reflection over perfection**
+
+Every animation, interaction, and visual element is intentionally calm, encouraging users to slow down instead of rushing through another app.
+
 
 ---
 
----
+# 🤍 Why Sylva?
 
-## 🤍 Why Sylva?
+Many wellness apps ask users to write into a blank journal.
 
-Mental wellness apps often ask users to write into an empty text box.
-
-Sylva invites users to step outside, observe the world around them, and discover that every tree, flower, bird, or stream has a story worth listening to.
+Sylva encourages them to step outside, observe the world around them, and discover that every tree, flower, bird, stream, or spider has a story worth listening to.
 
 Because sometimes healing doesn't begin with advice.
 
@@ -152,4 +156,6 @@ It begins with noticing.
 
 ---
 
-*"Go outside. Find your companion. Start a conversation."* 🌸
+<p align="center">
+<b>"Go outside. Find your companion. Start a conversation."</b> 🌸
+</p>
